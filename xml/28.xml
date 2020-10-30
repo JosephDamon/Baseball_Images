@@ -1,0 +1,26 @@
+<annotation>
+	<folder>drive-download-20201030T154344Z-001</folder>
+	<filename>28.png</filename>
+	<path>C:\Users\Joseph\Documents\drive-download-20201030T154344Z-001\28.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2400</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ball</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1192</xmin>
+			<ymin>204</ymin>
+			<xmax>1212</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>
